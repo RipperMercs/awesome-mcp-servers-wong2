@@ -278,6 +278,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Tavily](https://github.com/tavily-ai/tavily-mcp)** - Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)
 - **[Tencent Cloud COS MCP](https://github.com/Tencent/cos-mcp)** - Quickly integrate with Tencent Cloud Storage (COS) and Data Processing (CI) capabilities powered
 - **[Teradata](https://github.com/Teradata/teradata-mcp-server)** - A collection of tools for managing the platform, addressing data quality and reading and writing to [Teradata](https://www.teradata.com/) Database.
+- **[TensorFeed](https://github.com/RipperMercs/tensorfeed-mcp)** - Real-time AI ecosystem data: news from 50+ sources, model pricing, AI service status (2-min polling across 20 providers), MCP registry growth, GitHub/npm/PyPI trending, AI papers (arXiv, Semantic Scholar, HF Daily). 14+ premium tools paid in USDC on Base via x402.
 - **[ThingsBoard](https://github.com/thingsboard/thingsboard-mcp)** - The ThingsBoard MCP Server provides a natural language interface for LLMs and AI agents to interact with your ThingsBoard IoT platform.
 - **[Thirdweb](https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp)** - Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)
 - **[Tinybird](https://github.com/tinybirdco/mcp-tinybird)** - Interact with Tinybird serverless ClickHouse platform
